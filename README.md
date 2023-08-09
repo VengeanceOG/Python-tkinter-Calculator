@@ -1,6 +1,10 @@
 # This is a simple python calculator (with tkinter interface).
 
-https://github.com/VengeanceOG/Python-tkinter-Calculator/assets/107803735/99e6437e-9a9f-424c-ab24-8a71475daec4
+
+https://github.com/VengeanceOG/Python-tkinter-Calculator/assets/107803735/b6666459-01f3-4390-a4a2-c2c2683bc2a4
+
+
+
 
 ## Steps to use:
 
